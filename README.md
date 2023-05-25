@@ -21,4 +21,5 @@ open command prompt(after making github account)":
 **Replace user.email with your own email and user.name with your own username**
 
 **msg when u are done so we can figure out how the working together thin works**
+
 [Almost full tutorial if my instructions(for git config) make no sense:](https://www.gitkraken.com/learn/git/git-config)
